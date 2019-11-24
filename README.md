@@ -23,7 +23,7 @@ Developed by [Florian Eckerstorfer](https://florian.ec) in Vienna, Europe with t
     characters. Instead of removing these characters, Slugify approximates them (e.g., `ae` replaces `ä`).
 -   No external dependencies.
 -   PSR-4 compatible.
--   Compatible with PHP >= 5.5.9 and PHP 7.
+-   Compatible with PHP 7+.
 -   Integrations for [Symfony (2 and 3)](http://symfony.com), [Silex (1 and 2)](http://silex.sensiolabs.org), [Laravel](http://laravel.com),
     [Twig (1 and 2)](http://twig.sensiolabs.org), [Zend Framework 2](http://framework.zend.com/), [Nette Framework](http://nette.org/),
     [Latte](http://latte.nette.org/) and [Plum](https://github.com/plumphp/plum).
